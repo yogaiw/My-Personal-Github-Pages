@@ -1,0 +1,28 @@
+html {
+	font-family: poppins;
+}
+
+body {
+		background-color: black;
+}
+
+p {
+	color: #F5F5F5;
+}
+
+.col-xs-4 {
+	text-align: center;
+	background-color: #212121;
+	padding: 10px;
+}
+
+.imgpad {
+	width: 30%;
+	padding: 50px;
+}
+
+.centerimg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
