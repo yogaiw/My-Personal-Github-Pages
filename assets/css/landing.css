@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+html, body {
+    font-family: 'Playfair Display', serif;
+    padding-bottom: 20px;
+}
+
+.yogaiw-header {
+    background: linear-gradient(90deg, rgba(38, 151, 155, 1) 0%, rgba(23, 119, 123, 1) 100%);
+    padding: 20px 20px;
+}
+
+.card.green-gradient {
+    background: linear-gradient(90deg, rgba(38, 151, 155, 1) 0%, rgba(23, 119, 123, 1) 100%);
+    color: white;
+}
